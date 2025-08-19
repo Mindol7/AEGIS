@@ -1,9 +1,9 @@
 # AEGIS (Android Evidence Guard for Integrity and Survival)
 
-Developer : Minhyuk Cho, Seungmin Lee, Sungwon Jeong, Seong-je Cho, Minkyu Park  
-Contact Mail : cgumgek8@gmail.com
-Paper : FSI: Digital Investigation (Preprint, 2025) ; _**Under Review**_
-Tool Name : AEGIS  
+Developer : Minhyuk Cho, Seungmin Lee, Sungwon Jeong, Seong-je Cho, Minkyu Park 
+Contact Mail : cgumgek8@gmail.com 
+Paper : FSI: Digital Investigation (Preprint, 2025) ; _**Under Review**_ 
+Tool Name : AEGIS   
 
 ---
 
