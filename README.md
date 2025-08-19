@@ -1,4 +1,4 @@
-# AEGIS: Android Evidence Guard for Integrity and Survival
+# AEGIS: Android Evidence Guard tool for Integrity and Survival
 
 Developer : Minhyuk Cho, Seungmin Lee, Sungwon Jeong, Seong-je Cho, Minkyu Park  
 Contact Mail : cgumgek8@gmail.com  
