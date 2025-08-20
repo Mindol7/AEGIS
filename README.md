@@ -36,7 +36,7 @@ This tool is designed for **forensic research and investigation purposes**.
 It requires explicit installation on the target device (no stealth mode).  
 The captured data includes sensitive personal information (calls, messages, timestamps), so proper authorization and legal compliance must be ensured.  
 
-If you are using this tool in research or open-source projects, please cite our paper in *FSI: Digital Investigation*.
+If you are using this tool in research or open-source projects, please cite our paper in *FSI: Digital Investigation*. ; _**(Under Review)**_  
 
 ---
 
@@ -71,7 +71,7 @@ If you use AEGIS in your research, please cite:
 ```bibtex
 @article{choa2025aegis,
   title={AEGIS: Android Evidence Guard tool for Integrity and Survival},
-  author={Cho, Minhyuk Cho and Seungmin Lee and Sungwon Jeong and Seong-je Cho and Minkyu Park},
+  author={Minhyuk Cho and Seungmin Lee and Sungwon Jeong and Seong-je Cho and Minkyu Park},
   journal={FSI: Digital Investigation},
   year={2025}
 }
