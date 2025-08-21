@@ -1,0 +1,2 @@
+2025-06-20 00:42:06 File Metadata Changed (metadata_changed): /storage/emulated/0/DCIM/Screenshots/Screenshot_20240625_180356_Photos.jpg ; serverTimestamp: 2025-06-27 00:41:57
+2025-06-20 00:42:06 MediaStore changed: content://media/external/images/media/1000000548File Name (DISPLAY_NAME): Screenshot_20240625_180356_Photos.jpgRelative Path: DCIM/Screenshots/Modifed After Date: 2020-07-25 18:03:00 ; serverTimestamp: 2025-06-27 00:41:57

@@ -1,0 +1,18 @@
+2025-05-12 22:24:07 File Opened (file_opened): /storage/emulated/0/Download/a.txt (1).txt ; serverTimestamp: 2025-05-12 13:24:07
+2025-05-12 22:24:07 File Closed without Writing (closed_without_writing): /storage/emulated/0/Download/a.txt (1).txt ; serverTimestamp: 2025-05-12 13:24:07
+2025-05-12 22:24:07 File Accessed (read_from): /storage/emulated/0/Download/a.txt (1).txt ; serverTimestamp: 2025-05-12 13:24:07
+2025-05-12 22:24:09 File Opened (file_opened): /storage/emulated/0/Download/a.txt (1).txt ; serverTimestamp: 2025-05-12 13:24:09
+2025-05-12 22:24:10 File Closed without Writing (closed_without_writing): /storage/emulated/0/Download/a.txt (1).txt ; serverTimestamp: 2025-05-12 13:24:09
+2025-05-12 22:24:10 File Closed after Writing (closed_after_write): /storage/emulated/0/Download/a.txt (1).txt ; serverTimestamp: 2025-05-12 13:24:09
+2025-05-12 22:24:10 File Revised (written_to): /storage/emulated/0/Download/a.txt (1).txt ; serverTimestamp: 2025-05-12 13:24:09
+2025-05-12 22:24:12 File Opened (file_opened): /storage/emulated/0/Download/a.txt (1).txt ; serverTimestamp: 2025-05-12 13:24:12
+2025-05-12 22:24:12 File Closed without Writing (closed_without_writing): /storage/emulated/0/Download/a.txt (1).txt ; serverTimestamp: 2025-05-12 13:24:12
+2025-05-12 22:24:07 File Opened (file_opened): /storage/emulated/0/Download/a.txt (1).txt ; serverTimestamp: 2025-05-12 13:24:07
+2025-05-12 22:24:07 File Closed without Writing (closed_without_writing): /storage/emulated/0/Download/a.txt (1).txt ; serverTimestamp: 2025-05-12 13:24:07
+2025-05-12 22:24:07 File Accessed (read_from): /storage/emulated/0/Download/a.txt (1).txt ; serverTimestamp: 2025-05-12 13:24:07
+2025-05-12 22:24:09 File Opened (file_opened): /storage/emulated/0/Download/a.txt (1).txt ; serverTimestamp: 2025-05-12 13:24:09
+2025-05-12 22:24:10 File Closed without Writing (closed_without_writing): /storage/emulated/0/Download/a.txt (1).txt ; serverTimestamp: 2025-05-12 13:24:09
+2025-05-12 22:24:10 File Closed after Writing (closed_after_write): /storage/emulated/0/Download/a.txt (1).txt ; serverTimestamp: 2025-05-12 13:24:09
+2025-05-12 22:24:10 File Revised (written_to): /storage/emulated/0/Download/a.txt (1).txt ; serverTimestamp: 2025-05-12 13:24:09
+2025-05-12 22:24:12 File Opened (file_opened): /storage/emulated/0/Download/a.txt (1).txt ; serverTimestamp: 2025-05-12 13:24:12
+2025-05-12 22:24:12 File Closed without Writing (closed_without_writing): /storage/emulated/0/Download/a.txt (1).txt ; serverTimestamp: 2025-05-12 13:24:12

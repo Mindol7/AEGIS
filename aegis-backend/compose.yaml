@@ -1,0 +1,32 @@
+version: '3.8'
+
+services:
+  # Spring Boot 애플리케이션
+  app:
+    image: woniwory/forensic_spring:latest
+    container_name: forensic-app
+    ports:
+      - "52346:8080"
+    environment:
+      - SPRING_DATA_MONGODB_URI=mongodb://root:example@mongodb:27017/forensic_db?authSource=admin
+    depends_on:
+      - mongodb
+    networks:
+      - forensic_net
+
+  # MongoDB 컨테이너
+  mongodb:
+    image: mongo:5.0
+    container_name: mongodb_forensic
+    ports:
+      - "27017:27017"
+    environment:
+      MONGO_INITDB_ROOT_USERNAME: root
+      MONGO_INITDB_ROOT_PASSWORD: example
+      MONGO_INITDB_DATABASE: forensic_db
+    networks:
+      - forensic_net
+
+networks:
+  forensic_net:
+    driver: bridge
