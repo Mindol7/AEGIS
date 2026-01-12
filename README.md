@@ -2,7 +2,7 @@
 
 Developer : Minhyuk Cho, Seungmin Lee, Sungwon Jeong, Seong-je Cho, Minkyu Park in Computer SEcurity & OS (CSOS) Lab, Dankook University  
 Contact Mail : cgumgek8@gmail.com  
-Paper : FSI: Digital Investigation (Preprint, 2025)  
+<!--Paper : FSI: Digital Investigation (Preprint, 2025)  -->  
 Tool Name : AEGIS  
 
 ---
@@ -66,13 +66,22 @@ Other tools (e.g., DroidWatch, DELTA, LogExtractor) lack one or more of these es
 
 ## Citation
 
+We are currently writing a research manuscript on AEGIS.
+After submission, we will announce the preprint and kindly request that it be cited in related work.  
+
+
 If you use AEGIS in your research, please cite:
 
-```bibtex
+<!-- ```bibtex
 @article{choa2025aegis,
   title={AEGIS: Android Evidence Guard tool for Integrity and Survival},
   author={Minhyuk Cho and Seungmin Lee and Sungwon Jeong and Seong-je Cho and Minkyu Park},
   journal={FSI: Digital Investigation},
   year={2025}
 }
-```
+```-->    
+
+## Acknowledgement
+
++ This work was supported by Basic Science Research Program through the National Research Foundation of Korea (NRF) funded by the Ministry of Science and ICT (No. 2021R1A2C2012574).  
+![시그니처 가로형_영문조합형](https://user-images.githubusercontent.com/64211521/80204259-7e798980-8663-11ea-95f1-ff19ccb86a77.jpg)
