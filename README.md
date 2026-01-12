@@ -1,6 +1,6 @@
 # AEGIS: Android Evidence Guard tool for Integrity and Survival
 
-Developer : Minhyuk Cho, Seungmin Lee, Sungwon Jeong, Seong-je Cho, Minkyu Park  
+Developer : Minhyuk Cho, Seungmin Lee, Sungwon Jeong, Seong-je Cho, Minkyu Park in Computer SEcurity & OS (CSOS) Lab, Dankook University  
 Contact Mail : cgumgek8@gmail.com  
 Paper : FSI: Digital Investigation (Preprint, 2025)  
 Tool Name : AEGIS  
