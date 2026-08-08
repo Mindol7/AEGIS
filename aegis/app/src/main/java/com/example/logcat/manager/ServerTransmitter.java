@@ -45,7 +45,7 @@ import okhttp3.Response;
 public class ServerTransmitter {
 
     private static final String TAG = "ServerTransmitter";
-    private static final String BASE_URL = "http://220.149.236.152:8888";
+    private static final String BASE_URL = "***"; // Server
 
     public static final long MAX_OFFLINE_QUEUE_BYTES = 50L * 1024 * 1024; // 50 MB
     private static final String UPLOAD_PATH = "/logs/upload";
